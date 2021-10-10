@@ -1,0 +1,314 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: EXT_BC_DESIRE_RED
+  m_Shader: {fileID: 4800000, guid: 1773a467b1660964ea30810b219de096, type: 3}
+  m_ShaderKeywords: CLEARCOAT_ON FLAKES_BUMP FLAKES_COLOR_ALPHA FLAKES_ON FRESNEL
+    SPECULAR_ON _EMISSION
+  m_LightmapFlags: 1
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+    - first:
+        name: _BumpMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _DetailAlbedoMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _DetailMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _DetailMask
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _DetailNormalMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _DiffuseMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _EmissionMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _FlakesBumpMap
+      second:
+        m_Texture: {fileID: 2800000, guid: 93244b00d87ce4298bd8fabfca162997, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _FlakesColorMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _FlakesTex
+      second:
+        m_Texture: {fileID: 2800000, guid: 746db97cb4b4f744b9903452287f90c7, type: 3}
+        m_Scale: {x: 50, y: 50}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _MainTex
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _MetallicGlossMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _NormalMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _OcclusionMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Occlusionmap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _OverlayMainTex
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _OverlaySpecGlossMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _ParallaxMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _ReflectionMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _ReflectionSpecularMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _SpecGlossMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - first:
+        name: _BumpScale
+      second: 1
+    - first:
+        name: _ClearFresnel
+      second: 17.69
+    - first:
+        name: _ClearcoatIntensity
+      second: 2
+    - first:
+        name: _Cutoff
+      second: 0.5
+    - first:
+        name: _DetailMapDepthBias
+      second: 1
+    - first:
+        name: _DetailNormalMapScale
+      second: 1
+    - first:
+        name: _DiffuseFactor
+      second: 1
+    - first:
+        name: _DstBlend
+      second: 0
+    - first:
+        name: _EmissionScaleUI
+      second: 0
+    - first:
+        name: _FlakeBlendSharpness
+      second: -0.71
+    - first:
+        name: _FlakeDensity
+      second: 4.52
+    - first:
+        name: _FlakeIntensity
+      second: 50
+    - first:
+        name: _FlakeScale
+      second: 1
+    - first:
+        name: _FlakeViewDistance
+      second: 0.4
+    - first:
+        name: _FlakesBumpMapScale
+      second: 600
+    - first:
+        name: _FlakesBumpStrength
+      second: 0.001
+    - first:
+        name: _FlakesColorCutoff
+      second: 0.5
+    - first:
+        name: _FlakesColorMapScale
+      second: 1
+    - first:
+        name: _FlakesColorStrength
+      second: 0
+    - first:
+        name: _FresnelPower
+      second: 10
+    - first:
+        name: _GlossMapScale
+      second: 1
+    - first:
+        name: _Glossiness
+      second: 0.52
+    - first:
+        name: _GlossyReflections
+      second: 1
+    - first:
+        name: _Metallic
+      second: 1
+    - first:
+        name: _MicroflakePerturbation
+      second: 4.78
+    - first:
+        name: _MicroflakeSpecular
+      second: 1
+    - first:
+        name: _MinClearCoat
+      second: 0.08
+    - first:
+        name: _Mode
+      second: 0
+    - first:
+        name: _NormalPerturbation
+      second: 0.5
+    - first:
+        name: _OcclusionStrength
+      second: 1
+    - first:
+        name: _OverlayGlossiness
+      second: 0.68
+    - first:
+        name: _PaintFresnel
+      second: 0.28
+    - first:
+        name: _Parallax
+      second: 0.02
+    - first:
+        name: _ReflectionFalloff
+      second: 0.13
+    - first:
+        name: _ReflectionGlossiness
+      second: 0.81
+    - first:
+        name: _ReflectionStrength
+      second: 0.5
+    - first:
+        name: _SmoothnessTextureChannel
+      second: 0
+    - first:
+        name: _SpecularFactor
+      second: 2.05
+    - first:
+        name: _SpecularHighlights
+      second: 1
+    - first:
+        name: _SrcBlend
+      second: 1
+    - first:
+        name: _UVSec
+      second: 0
+    - first:
+        name: _ZWrite
+      second: 1
+    m_Colors:
+    - first:
+        name: _BaseColor
+      second: {r: 1, g: 1, b: 1, a: 1}
+    - first:
+        name: _Color
+      second: {r: 0.9411765, g: 0.9411765, b: 0.9411765, a: 1}
+    - first:
+        name: _DetailColor
+      second: {r: 1, g: 1, b: 1, a: 1}
+    - first:
+        name: _DiffuseColor
+      second: {r: 0.20588237, g: 0.048442908, b: 0.07124445, a: 1}
+    - first:
+        name: _EmissionColor
+      second: {r: 0, g: 0, b: 0, a: 1}
+    - first:
+        name: _EmissionColorUI
+      second: {r: 1, g: 1, b: 1, a: 1}
+    - first:
+        name: _FlakeColor
+      second: {r: 0.43382353, g: 0.1977725, b: 0.1977725, a: 1}
+    - first:
+        name: _FresnelColor
+      second: {r: 1, g: 1, b: 1, a: 1}
+    - first:
+        name: _OverlayColor
+      second: {r: 1, g: 1, b: 1, a: 0}
+    - first:
+        name: _OverlaySpecular
+      second: {r: 1, g: 1, b: 1, a: 0}
+    - first:
+        name: _ReflectionColor
+      second: {r: 1, g: 1, b: 1, a: 1}
+    - first:
+        name: _ReflectionSpecular
+      second: {r: 0.74264705, g: 0.74264705, b: 0.74264705, a: 1}
+    - first:
+        name: _ReflectiveColor
+      second: {r: 0.7205882, g: 0.16955008, b: 0.29495877, a: 1}
+    - first:
+        name: _SpecColor
+      second: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}

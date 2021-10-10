@@ -1,0 +1,41 @@
+﻿using UnityEngine;
+using UnityEngine.UI;
+using Leap.Unity.Interaction;
+
+public class UICheckmark : MonoBehaviour
+{
+	public MessengerEventsEnum messengerEvent;
+	private InteractionButton buttonParent;
+	private Image thisImage;
+
+	//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+	void Awake()
+	{
+		Messenger<int>.AddListener(messengerEvent, ChangeUIImage);
+		thisImage = GetComponent<Image>();
+		buttonParent = GetComponentInParent<InteractionButton>();
+		buttonParent.OnPress.AddListener(() => OnClickParentButton());
+	}
+
+	//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+	void OnDestroy()
+	{
+		Messenger<int>.RemoveListener(messengerEvent, ChangeUIImage);
+	}
+
+	//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+	void OnClickParentButton()
+	{
+		Messenger<int>.Broadcast(messengerEvent, GetInstanceID());
+	}
+
+	//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+	void ChangeUIImage(int id)
+	{
+		thisImage.enabled = (GetInstanceID() == id) ? true : false;
+	}
+}

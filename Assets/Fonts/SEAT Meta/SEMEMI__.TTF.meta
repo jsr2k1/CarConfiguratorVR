@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3fb9e93b34147e4408b7cfb67dd7c36c
+timeCreated: 1484065124
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Seat Meta Medium Italic
+  fontNames:
+  - Seat Meta Medium Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

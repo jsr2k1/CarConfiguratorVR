@@ -1,0 +1,163 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: EXT_BODY_GRIS_URANO
+  m_Shader: {fileID: 4800000, guid: 1773a467b1660964ea30810b219de096, type: 3}
+  m_ShaderKeywords: CLEARCOAT_ON FLAKES_BUMP FLAKES_COLOR_ALPHA FLAKES_ON FRESNEL
+    SPECULAR_ON _EMISSION
+  m_LightmapFlags: 1
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DiffuseMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FlakesBumpMap:
+        m_Texture: {fileID: 2800000, guid: 93244b00d87ce4298bd8fabfca162997, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FlakesColorMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FlakesTex:
+        m_Texture: {fileID: 2800000, guid: 746db97cb4b4f744b9903452287f90c7, type: 3}
+        m_Scale: {x: 500, y: 500}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Occlusionmap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OverlayMainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OverlaySpecGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ReflectionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ReflectionSpecularMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BumpScale: 1
+    - _ClearFresnel: 3.28
+    - _ClearcoatIntensity: 2
+    - _Cutoff: 0.5
+    - _DetailMapDepthBias: 1
+    - _DetailNormalMapScale: 1
+    - _DiffuseFactor: 1
+    - _DstBlend: 0
+    - _EmissionScaleUI: 0
+    - _FlakeBlendSharpness: -0.71
+    - _FlakeDensity: 10
+    - _FlakeIntensity: 50
+    - _FlakeScale: 1
+    - _FlakeViewDistance: 0.6
+    - _FlakesBumpMapScale: 600
+    - _FlakesBumpStrength: 0.001
+    - _FlakesColorCutoff: 0.5
+    - _FlakesColorMapScale: 1
+    - _FlakesColorStrength: 0
+    - _FresnelPower: 10
+    - _GlossMapScale: 1
+    - _Glossiness: 0.52
+    - _GlossyReflections: 1
+    - _Metallic: 1
+    - _MicroflakePerturbation: 4.78
+    - _MicroflakeSpecular: 1
+    - _MinClearCoat: 0.2
+    - _Mode: 0
+    - _NormalPerturbation: 0.5
+    - _OcclusionStrength: 1
+    - _OverlayGlossiness: 0.68
+    - _PaintFresnel: 0.28
+    - _Parallax: 0.02
+    - _ReflectionFalloff: 0.46
+    - _ReflectionGlossiness: 0.81
+    - _ReflectionStrength: 0.5
+    - _SmoothnessTextureChannel: 0
+    - _SpecularFactor: 1.57
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _ZWrite: 1
+    m_Colors:
+    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 0.9411765, g: 0.9411765, b: 0.9411765, a: 1}
+    - _DetailColor: {r: 1, g: 1, b: 1, a: 1}
+    - _DiffuseColor: {r: 0.22794116, g: 0.22794116, b: 0.22794116, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _EmissionColorUI: {r: 1, g: 1, b: 1, a: 1}
+    - _FlakeColor: {r: 0.60294116, g: 0.60294116, b: 0.60294116, a: 1}
+    - _FresnelColor: {r: 1, g: 1, b: 1, a: 1}
+    - _OverlayColor: {r: 1, g: 1, b: 1, a: 0}
+    - _OverlaySpecular: {r: 1, g: 1, b: 1, a: 0}
+    - _ReflectionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _ReflectionSpecular: {r: 0.74264705, g: 0.74264705, b: 0.74264705, a: 1}
+    - _ReflectiveColor: {r: 0.1691176, g: 0.1691176, b: 0.1691176, a: 1}
+    - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}

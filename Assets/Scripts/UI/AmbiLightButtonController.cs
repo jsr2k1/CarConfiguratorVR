@@ -1,0 +1,31 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using Leap.Unity.Interaction;
+
+public class AmbiLightButtonController : MonoBehaviour
+{
+	public Globals.AmbiLight ambilight;
+
+	//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+	void Awake()
+	{
+		GetComponent<InteractionButton>().OnPress.AddListener(() => OnClickAmbilightButton());
+	}
+
+	//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+	void OnDestroy()
+	{
+		GetComponent<InteractionButton>().OnPress.RemoveListener(() => OnClickAmbilightButton());
+	}
+
+	//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+	void OnClickAmbilightButton()
+	{
+		Globals.instance.currentAmbiLight = ambilight;
+		Messenger.Broadcast(MessengerEventsEnum.CHANGE_AMBILIGHT);
+	}
+}

@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 7b3d13cc3d2f02d4582b19e3a1d835a9
+timeCreated: 1506424287
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: VW Head
+  fontNames:
+  - VW Head
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1dae0ec2be65d7642b4d4f306b925f58, type: 3}
+  - {fileID: 12800000, guid: 20946cc5fe59e684a9a4064e82497c04, type: 3}
+  - {fileID: 12800000, guid: 0e319448b1e5f0a4da407e9af8bbb410, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

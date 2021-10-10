@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f16d22b996ef2e041a69b5e7a2890813
+timeCreated: 1484065124
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SeatMetaNormal
+  fontNames:
+  - SeatMetaNormal
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: cf0ba8791e5b167459a51d1a2d7a73d2, type: 3}
+  - {fileID: 12800000, guid: 3c015f0b5e924964993659371d235724, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

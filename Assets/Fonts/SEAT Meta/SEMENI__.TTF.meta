@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 02ca35f6eb9840e459b64dcb1c65e538
+timeCreated: 1484065124
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Seat Meta Normal Italic
+  fontNames:
+  - Seat Meta Normal Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

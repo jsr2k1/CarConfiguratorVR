@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 783b7c681c8f3cf44b5a3666427a4287
+timeCreated: 1506424287
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: VW Text
+  fontNames:
+  - VW Text
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6feb53b2c60c9c844bb7ec477220c23d, type: 3}
+  - {fileID: 12800000, guid: 67b0a3ba55da70d4783e5aa826ce7280, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
