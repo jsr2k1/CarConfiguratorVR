@@ -1,0 +1,9 @@
+Costuras del volante
+
+1.Importar T-Roc_Sport_CosturasVolante.fbx (sirve para todos) tal cual en MAX/MAYA. Debería tener la posición exacta que el interior del coche. 
+2. Importar textura TEX_CosturasVolante_UVS, en el editor de texturas de Unity aplicar: Max Size: minimo 2048 y Compression: High Quality. Si ves que la textura es muy grande (lo he hecho a maxima calidad) puedes bajar el tamaño tanto como sea necesario. 
+3. Generar un material MAT_TROC_Costuras_Volante. Añadirle la textura en el diffuse. Poner Rendering Mode a Fade. Metallic y Smoothness a 0. Color del diffuse a: 444444FF (puedes variarlo un poco a tu criterio).
+
+YA ESTA
+
+=) 
