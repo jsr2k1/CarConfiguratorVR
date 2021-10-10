@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 31f777ebe69f18d46bf9df5d54e4d57e
+timeCreated: 1505908218
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Nervios_estructura_1
+    100004: Nervios_estructura_2
+    100006: Perfiles_ventanas
+    100008: Tuberia
+    100010: Tuercas
+    100012: Viga_delgada
+    100014: Box
+    100016: Tuberia001
+    100018: Tuberia002
+    100020: Tuercas001
+    100022: Tuercas002
+    100024: Nervios_estructura_3
+    100026: Tuberia_1
+    100028: Tuberia_2
+    100030: Tuberia_3
+    100032: Tuercas009
+    400000: //RootNode
+    400002: Nervios_estructura_1
+    400004: Nervios_estructura_2
+    400006: Perfiles_ventanas
+    400008: Tuberia
+    400010: Tuercas
+    400012: Viga_delgada
+    400014: Box
+    400016: Tuberia001
+    400018: Tuberia002
+    400020: Tuercas001
+    400022: Tuercas002
+    400024: Nervios_estructura_3
+    400026: Tuberia_1
+    400028: Tuberia_2
+    400030: Tuberia_3
+    400032: Tuercas009
+    2300000: Nervios_estructura_1
+    2300002: Nervios_estructura_2
+    2300004: Perfiles_ventanas
+    2300006: Tuberia
+    2300008: Tuercas
+    2300010: Viga_delgada
+    2300012: Box
+    2300014: Tuberia001
+    2300016: Tuberia002
+    2300018: Tuercas001
+    2300020: Tuercas002
+    2300022: Nervios_estructura_3
+    2300024: Tuberia_1
+    2300026: Tuberia_2
+    2300028: Tuberia_3
+    2300030: Tuercas009
+    3300000: Nervios_estructura_1
+    3300002: Nervios_estructura_2
+    3300004: Perfiles_ventanas
+    3300006: Tuberia
+    3300008: Tuercas
+    3300010: Viga_delgada
+    3300012: Box
+    3300014: Tuberia001
+    3300016: Tuberia002
+    3300018: Tuercas001
+    3300020: Tuercas002
+    3300022: Nervios_estructura_3
+    3300024: Tuberia_1
+    3300026: Tuberia_2
+    3300028: Tuberia_3
+    3300030: Tuercas009
+    4300000: Nervios_estructura_2
+    4300002: Viga_delgada
+    4300004: Perfiles_ventanas
+    4300006: Tuercas
+    4300008: Tuberia
+    4300010: Nervios_estructura_1
+    4300012: Tuberia001
+    4300014: Tuercas001
+    4300016: Tuberia002
+    4300018: Tuercas002
+    4300020: Box
+    4300022: Tuberia_2
+    4300024: Tuberia_3
+    4300026: Tuberia_1
+    4300028: Tuercas009
+    4300030: Nervios_estructura_3
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

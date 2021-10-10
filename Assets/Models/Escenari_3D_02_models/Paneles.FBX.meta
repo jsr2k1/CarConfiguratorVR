@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: 60546811fbe01a149a0201b75937b358
+timeCreated: 1505901659
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Barandilla
+    100002: Panel_rectangular_1
+    100004: Panel_rectangular_2
+    100006: Panel_rectangular_3
+    100008: //RootNode
+    100010: Pilar_lateral
+    100012: Pilar_lateral_2
+    100014: Pilar_superior
+    100016: Pilar_horizontal
+    100018: Pilar_lateral_3
+    100020: Barandilla_alpha
+    400000: Barandilla
+    400002: Panel_rectangular_1
+    400004: Panel_rectangular_2
+    400006: Panel_rectangular_3
+    400008: //RootNode
+    400010: Pilar_lateral
+    400012: Pilar_lateral_2
+    400014: Pilar_superior
+    400016: Pilar_horizontal
+    400018: Pilar_lateral_3
+    400020: Barandilla_alpha
+    2300000: Barandilla
+    2300002: Panel_rectangular_1
+    2300004: Panel_rectangular_2
+    2300006: Panel_rectangular_3
+    2300008: Pilar_lateral
+    2300010: Pilar_lateral_2
+    2300012: Pilar_superior
+    2300014: Pilar_horizontal
+    2300016: Pilar_lateral_3
+    2300018: Barandilla_alpha
+    3300000: Barandilla
+    3300002: Panel_rectangular_1
+    3300004: Panel_rectangular_2
+    3300006: Panel_rectangular_3
+    3300008: Pilar_lateral
+    3300010: Pilar_lateral_2
+    3300012: Pilar_superior
+    3300014: Pilar_horizontal
+    3300016: Pilar_lateral_3
+    3300018: Barandilla_alpha
+    4300000: Barandilla
+    4300002: Panel_rectangular_1
+    4300004: Panel_rectangular_2
+    4300006: Panel_rectangular_3
+    4300008: Pilar_superior
+    4300010: Pilar_lateral
+    4300012: Pilar_lateral_2
+    4300014: Pilar_horizontal
+    4300016: Pilar_lateral_3
+    4300018: Barandilla_alpha
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 2
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

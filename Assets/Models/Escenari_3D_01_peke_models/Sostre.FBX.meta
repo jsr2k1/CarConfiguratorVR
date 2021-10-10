@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 0f7dde8440280734cbfe7adbc85a8f08
+timeCreated: 1512035467
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Sostre_A_1
+    100004: Sostre_A_2
+    100006: Sostre_A_3
+    100008: Sostre_A_4
+    100010: Sostre_A_5
+    100012: Sostre_A_6
+    100014: Sostre_B_1
+    100016: Sostre_B_2
+    100018: Sostre_B_3
+    100020: Sostre_B_4
+    100022: Sostre_B_5
+    100024: Sostre_B_6
+    100026: Vigas_Superior_A
+    100028: Vigas_Superior_B
+    100030: ViguesTransversals_1
+    100032: ViguesTransversals_2
+    100034: ViguesTransversals_3
+    100036: ViguesTransversals_4
+    100038: ViguesTransversals_5
+    400000: //RootNode
+    400002: Sostre_A_1
+    400004: Sostre_A_2
+    400006: Sostre_A_3
+    400008: Sostre_A_4
+    400010: Sostre_A_5
+    400012: Sostre_A_6
+    400014: Sostre_B_1
+    400016: Sostre_B_2
+    400018: Sostre_B_3
+    400020: Sostre_B_4
+    400022: Sostre_B_5
+    400024: Sostre_B_6
+    400026: Vigas_Superior_A
+    400028: Vigas_Superior_B
+    400030: ViguesTransversals_1
+    400032: ViguesTransversals_2
+    400034: ViguesTransversals_3
+    400036: ViguesTransversals_4
+    400038: ViguesTransversals_5
+    2300000: Sostre_A_1
+    2300002: Sostre_A_2
+    2300004: Sostre_A_3
+    2300006: Sostre_A_4
+    2300008: Sostre_A_5
+    2300010: Sostre_A_6
+    2300012: Sostre_B_1
+    2300014: Sostre_B_2
+    2300016: Sostre_B_3
+    2300018: Sostre_B_4
+    2300020: Sostre_B_5
+    2300022: Sostre_B_6
+    2300024: Vigas_Superior_A
+    2300026: Vigas_Superior_B
+    2300028: ViguesTransversals_1
+    2300030: ViguesTransversals_2
+    2300032: ViguesTransversals_3
+    2300034: ViguesTransversals_4
+    2300036: ViguesTransversals_5
+    3300000: Sostre_A_1
+    3300002: Sostre_A_2
+    3300004: Sostre_A_3
+    3300006: Sostre_A_4
+    3300008: Sostre_A_5
+    3300010: Sostre_A_6
+    3300012: Sostre_B_1
+    3300014: Sostre_B_2
+    3300016: Sostre_B_3
+    3300018: Sostre_B_4
+    3300020: Sostre_B_5
+    3300022: Sostre_B_6
+    3300024: Vigas_Superior_A
+    3300026: Vigas_Superior_B
+    3300028: ViguesTransversals_1
+    3300030: ViguesTransversals_2
+    3300032: ViguesTransversals_3
+    3300034: ViguesTransversals_4
+    3300036: ViguesTransversals_5
+    4300000: Sostre_A_1
+    4300002: Sostre_A_2
+    4300004: Sostre_A_3
+    4300006: Sostre_A_4
+    4300008: Sostre_A_5
+    4300010: Vigas_Superior_A
+    4300012: Sostre_A_6
+    4300014: Sostre_B_1
+    4300016: Sostre_B_2
+    4300018: Sostre_B_3
+    4300020: Sostre_B_4
+    4300022: Sostre_B_5
+    4300024: Sostre_B_6
+    4300026: Vigas_Superior_B
+    4300028: ViguesTransversals_1
+    4300030: ViguesTransversals_2
+    4300032: ViguesTransversals_3
+    4300034: ViguesTransversals_4
+    4300036: ViguesTransversals_5
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 2
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
